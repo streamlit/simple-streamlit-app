@@ -1,4 +1,4 @@
-# Cortex Demo
+# Simple Streamlit App
 
 A simple [Streamlit in Snowflake (SiS)](https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit) app that demonstrates [Snowflake Cortex](https://docs.snowflake.com/en/user-guide/snowflake-cortex/overview) AI functions for text generation using large language models.
 
